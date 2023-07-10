@@ -15,3 +15,11 @@ Flujo
 
     Mejoras:
         Seteo de jugadores en modo juego
+
+Tareas
+diseño figma
+Elegir paleta de colores
+Eleccion Fonts
+Formulario de jugador
+Nombre de jugador
+Iniciativa
