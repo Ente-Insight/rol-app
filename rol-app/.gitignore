@@ -37,3 +37,7 @@ next-env.d.ts
 # draw.io
 .dtmp
 .drawio.bkp
+
+# vscode
+
+/.vscode
